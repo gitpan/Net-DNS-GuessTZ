@@ -17,5 +17,6 @@ requires:
   DateTime::TimeZone: 0.51
   IP::Country::Fast: 0
   List::Util: 0
+  Sub::Exporter: 0
   perl: 5.6.0
-version: 0.001
+version: 0.002
