@@ -3,7 +3,7 @@ use strict;
 use warnings;
 package Net::DNS::GuessTZ;
 {
-  $Net::DNS::GuessTZ::VERSION = '0.003';
+  $Net::DNS::GuessTZ::VERSION = '0.004';
 }
 # ABSTRACT: guess the time zone of a host
 
@@ -70,13 +70,15 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 Net::DNS::GuessTZ - guess the time zone of a host
 
 =head1 VERSION
 
-version 0.003
+version 0.004
 
 =head1 SYNOPSIS
 
